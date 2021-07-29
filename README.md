@@ -1,4 +1,4 @@
- # Iae !!! Tudo Bem, Sou Carlos Kauan 🚀
+# Opaa! 👋 Seja bem vindo!
  
 <div>
 <a href="https://github.com/CarlusKauan"> </a>
@@ -22,7 +22,7 @@
  
 <!-- * Objetivo -> FullStack :running_man: --> 
 
-## Conhecimento em Tecnologias ! 
+## Conhecimento em Tecnologias 
 
   <div style="display: inline_block">
   
