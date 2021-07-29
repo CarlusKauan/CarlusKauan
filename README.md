@@ -20,9 +20,11 @@
  
  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
  
- 
+
+<img align="right" height="600" width="600" alt="Carlos" src="https://github.com/CarlusKauan/CarlusKauan/blob/main/octocat.png">
   
-  <img align="right" alt="Carlos" src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e476uyoxl52k9ayxxow83vk474njgic735apcgoo825&rid=giphy.gif&ct=g">
+<!-- <img align="right" alt="Carlos" src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e476uyoxl52k9ayxxow83vk474njgic735apcgoo825&rid=giphy.gif&ct=g"> -->
+ 
 <!--  <img align="right" alt="Carlos" src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif"> -->
  
 </div>
