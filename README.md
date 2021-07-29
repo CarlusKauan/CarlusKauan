@@ -1,12 +1,24 @@
  # Iae !!! Tudo Bem, Sou Carlos Kauan 🚀
+ 
+<div>
+<a href="https://github.com/CarlusKauan"> </a>
+<img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=CarlusKauan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlusKauan&&layout=compact&hide=shell&theme=dark"/>
+</div>
+
+<img align="right" height="600" width="600" alt="Carlos" src="https://github.com/CarlusKauan/CarlusKauan/blob/main/octocat.png">
+
+ Um pouco sobre mim :
 
 * Moro em São paulo, Zona Norte :brazil:
-* Estou Cursando Desenvolvimento de Sistemas (Etec Hóracio Augusto da Silveira) 👨‍🎓
-* Desenvolvedor em fase de Crescimento🕹️
-*  Objetivo -> FullStack :running_man: 
+* Cursando Desenvolvimento de Sistemas(Etec Hóracio Augusto da Silveira)👨‍🎓
+* Desenvolvedor em fase de Crescimento 🕹️
+* Objetivo -> FullStack :running_man: 
 
-## Tecnologias 
-<div style="display: inline_block"><br>
+
+ Conhecimento em Tecnologias : 
+
+  <div style="display: inline_block">
   
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
@@ -18,18 +30,9 @@
  
  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  
- <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+ <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"><br />
  
-
-<img align="right" height="600" width="600" alt="Carlos" src="https://github.com/CarlusKauan/CarlusKauan/blob/main/octocat.png">
-  
-<!-- <img align="right" alt="Carlos" src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e476uyoxl52k9ayxxow83vk474njgic735apcgoo825&rid=giphy.gif&ct=g"> -->
- 
-<!--  <img align="right" alt="Carlos" src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif"> -->
- 
-</div>
-
-## Contato
+ Meus Contatos : 
 
  <div>
    <a href = "mailto:carloskauan190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
