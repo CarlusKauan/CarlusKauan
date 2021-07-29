@@ -10,7 +10,7 @@
 
 ## Um pouco sobre mim 
 
-* Moro em São paulo, Zona Norte :brazil:
+* Moro em São paulo :brazil:
  
 * Cursando Desenvolvimento de Sistemas 👨‍🎓
 
