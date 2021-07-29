@@ -8,15 +8,17 @@
 
 <img align="right" height="600" width="600" alt="Carlos" src="https://github.com/CarlusKauan/CarlusKauan/blob/main/octocat.png">
 
- Um pouco sobre mim :
+## Um pouco sobre mim 
 
 * Moro em São paulo, Zona Norte :brazil:
-* Cursando Desenvolvimento de Sistemas(Etec Hóracio Augusto da Silveira)👨‍🎓
+ 
+* Cursando Desenvolvimento de Sistemas 👨‍🎓
+
 * Desenvolvedor em fase de Crescimento 🕹️
-* Objetivo -> FullStack :running_man: 
+ 
+<!-- * Objetivo -> FullStack :running_man: --> 
 
-
- Conhecimento em Tecnologias : 
+## Conhecimento em Tecnologias ! 
 
   <div style="display: inline_block">
   
@@ -30,9 +32,11 @@
  
  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  
- <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"><br />
+ <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
  
- Meus Contatos : 
+ <br />
+ 
+ ## Meus Contatos  
 
  <div>
    <a href = "mailto:carloskauan190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
