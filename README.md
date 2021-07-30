@@ -22,7 +22,7 @@
  
 <!-- * Objetivo -> FullStack :running_man: --> 
 
-## Conhecimentos 
+## Conhecimentos e Tecnologias 
 
   <div style="display: inline_block">
   
