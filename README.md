@@ -8,7 +8,7 @@
 
 <img align="right" height="650" width="650" alt="Carlos" src="https://github.com/CarlusKauan/CarlusKauan/blob/main/octocat.png">
 
-## Um pouco sobre mim 
+## Sobre mim 
 
    Me chamo Carlos Kauan !
    
@@ -22,7 +22,7 @@
  
 <!-- * Objetivo -> FullStack :running_man: --> 
 
-## Conhecimento em Tecnologias 
+## Conhecimentos 
 
   <div style="display: inline_block">
   
