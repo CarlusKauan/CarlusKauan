@@ -6,7 +6,7 @@
 <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlusKauan&&layout=compact&hide=shell&theme=dark"/>
 </div>
 
-<img align="right" height="600" width="600" alt="Carlos" src="https://github.com/CarlusKauan/CarlusKauan/blob/main/octocat.png">
+<img align="right" height="650" width="650" alt="Carlos" src="https://github.com/CarlusKauan/CarlusKauan/blob/main/octocat.png">
 
 ## Um pouco sobre mim 
 
