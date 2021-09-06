@@ -13,9 +13,9 @@
 
 ## Sobre mim 
 
-   Me chamo Carlos Kauan !
+   <div>Me chamo Carlos Kauan !</div>
    
-   Sou um estudante, de Desenvolvimento de Sistemas estou procurando uma oportunidade de estagio, para poder evoluir na área de TI, pois eu gosto muito de sempre esta  aprendendo tecnologias novas, e estar sempre evoluindo nesta área, gosto muito de estudar por conta própria para poder me desenvolver e me tornar um grande desenvolvedor.
+   <p>Sou um estudante, de Desenvolvimento de Sistemas estou procurando uma oportunidade de estagio, para poder evoluir na área de TI, pois eu gosto muito de sempre esta  aprendendo tecnologias novas, e estar sempre evoluindo nesta área, gosto muito de estudar por conta própria para poder me desenvolver e me tornar um grande desenvolvedor.</p>
 
 * Moro em São paulo :brazil:
  
