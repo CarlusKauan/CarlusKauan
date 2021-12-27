@@ -7,9 +7,12 @@
 <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=CarlusKauan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
 <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlusKauan&&layout=compact&hide=shell&theme=dark"/>
+  
 </div>
 
 <img align="right" width="500px" alt="Carlos" src="https://github.com/CarlusKauan/CarlusKauan/blob/main/octocat.png">
+
+
 
 ## Sobre mim 
 
@@ -59,5 +62,10 @@
 
  <div>
    <a href = "mailto:carloskauan190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/https:carlos-kauan-5a3832206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/https:carlos-kauan-5a3832206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+ 
+ <div>
+  <img src="https://giffiles.alphacoders.com/209/209557.gif" alt="this slowpoke moves"  width="100" />
+  <img src="https://avatarfiles.alphacoders.com/893/thumb-89303.gif" alt="this slowpoke moves"  width="100" />
+ </div>
