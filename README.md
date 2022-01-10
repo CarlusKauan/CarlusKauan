@@ -48,6 +48,8 @@
  
  <img align="center" alt="Carlos-KOTLIN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">  
  
+ <img align="center" alt="Carlos-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">  
+ 
  ## Frameworks
  
  <img align="center" alt="Carlos-angular" height="42" width="40" src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png">  
