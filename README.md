@@ -62,7 +62,7 @@
  
  ### Conecte-se comigo:
  <p align="left">
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/tiagohenriquelazarini/" target="blank">
+ <a href="https://www.linkedin.com/in/carlos-kauan-5a3832206/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tiagohenriquelazarini/" height="40" width="35" /></a>
  
  <a href="https://www.hackerrank.com/tiago_lazarini" target="blank">
