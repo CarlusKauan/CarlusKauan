@@ -28,7 +28,7 @@
  
 <!-- * Objetivo -> FullStack :running_man: --> 
 
-## Linguagens e Ferramentas
+### Linguagens e Ferramentas:
 
   <div style="display: inline_block">
   
@@ -60,14 +60,23 @@
  
  <img align="center" alt="Carlos-angular" height="42" width="40" src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png">  
  
- <br />
+ ### Conecte-se comigo:
+ <p align="left">
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/tiagohenriquelazarini/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tiagohenriquelazarini/" height="40" width="35" /></a>
  
- ## Meus Contatos  
-
- <div>
-   <a href = "mailto:carloskauan190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/https:carlos-kauan-5a3832206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.hackerrank.com/tiago_lazarini" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tiago_lazarini" height="40" width="34" /></a>
+ 
+ <a href="https://discord.gg/𝖙𝖍𝖊𝖈𝖆𝖗𝖑𝖔𝖘#6960" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tiago Lazarini#5753" height="40" width=34" /></a>
+</p>
+ 
+  <div>
+   <a href="mailto:carloskauan190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+ 
+ <br />
  
  <div>
   <img src="https://giffiles.alphacoders.com/209/209557.gif" alt="this slowpoke moves"  width="100" />
