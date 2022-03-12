@@ -77,8 +77,8 @@
 </div>
  
  <br />
- 
+<!--  
  <div>
   <img src="https://giffiles.alphacoders.com/209/209557.gif" alt="this slowpoke moves"  width="100" />
   <img src="https://avatarfiles.alphacoders.com/893/thumb-89303.gif" alt="this slowpoke moves"  width="100" />
- </div>
+ </div> -->
