@@ -14,7 +14,8 @@
 
 
 
-## Sobre mim 
+### Sobre mim 
+<hr />
 
    <div>Me chamo Carlos Kauan !</div>
    
@@ -27,6 +28,8 @@
 * Desenvolvedor em fase de Crescimento 🕹️
  
 <!-- * Objetivo -> FullStack :running_man: --> 
+
+<hr />
 
 ### Linguagens e Ferramentas:
 
