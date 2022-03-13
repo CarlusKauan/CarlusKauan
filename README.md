@@ -65,7 +65,7 @@
  <a href="https://www.linkedin.com/in/carlos-kauan-5a3832206/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tiagohenriquelazarini/" height="40" width="35" /></a>
  
- <a href="https://www.hackerrank.com/tiago_lazarini" target="blank">
+ <a href="https://www.hackerrank.com/carloskauan190" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tiago_lazarini" height="40" width="34" /></a>
  
  <a href="https://discord.gg/𝖙𝖍𝖊𝖈𝖆𝖗𝖑𝖔𝖘#6960" target="blank">
