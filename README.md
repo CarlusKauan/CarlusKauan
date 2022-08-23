@@ -72,7 +72,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tiago_lazarini" height="40" width="34" /></a>
  
  <a href="https://discord.gg/𝖙𝖍𝖊𝖈𝖆𝖗𝖑𝖔𝖘#6960" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tiago Lazarini#5753" height="40" width=34" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="𝖙𝖍𝖊𝖈𝖆𝖗𝖑𝖔𝖘#6960" height="40" width=34" /></a>
 </p>
  
   <div>
