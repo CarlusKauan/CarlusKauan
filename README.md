@@ -23,7 +23,7 @@
 
 * Moro em São paulo :brazil:
  
-* Cursando Desenvolvimento de Sistemas 👨‍🎓
+* Formado em Desenvolvimento de Sistemas 👨‍🎓
 
 * Desenvolvedor em fase de Crescimento 🕹️
  
