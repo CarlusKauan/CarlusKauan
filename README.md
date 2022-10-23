@@ -24,6 +24,7 @@
 * Moro em São paulo :brazil:
  
 * Formado em Desenvolvimento de Sistemas 👨‍🎓
+  * ETEC Professor Horácio Augusto da Silveira
 
 * Desenvolvedor em fase de Crescimento 🕹️
  
