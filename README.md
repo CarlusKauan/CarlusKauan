@@ -27,6 +27,7 @@
   * ETEC Professor Horácio Augusto da Silveira
 
 * Desenvolvedor em fase de Crescimento 🕹️
+  * Em transição para o ensino superior
  
 <!-- * Objetivo -> FullStack :running_man: --> 
 
