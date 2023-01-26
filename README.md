@@ -1,20 +1,10 @@
 # Opaa! 👋 Seja bem vindo !!!
  
-<div>
- 
-<a href="https://github.com/CarlusKauan"> </a>
- 
-<img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=CarlusKauan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
-<img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlusKauan&&layout=compact&hide=shell&theme=dark"/>
-  
-</div>
-
 <img align="right" width="500px" alt="Carlos" src="https://github.com/CarlusKauan/CarlusKauan/blob/main/octocat.png">
 
 
 
-## Sobre mim 
+### Sobre mim 
 
 
    <div>Me chamo Carlos Kauan !</div>
